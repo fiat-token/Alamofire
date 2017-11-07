@@ -2266,7 +2266,7 @@
 				5DC36DE41FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		4CF627041BA7CB3E0011A099 /* Build configuration list for PBXNativeTarget "Alamofire tvOS" */ = {
 			isa = XCConfigurationList;
@@ -2278,7 +2278,7 @@
 				5DC36DE11FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		4CF627051BA7CB3E0011A099 /* Build configuration list for PBXNativeTarget "Alamofire tvOS Tests" */ = {
 			isa = XCConfigurationList;
@@ -2290,7 +2290,7 @@
 				5DC36DE21FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		4DD67C1E1A5C55C900ED2280 /* Build configuration list for PBXNativeTarget "Alamofire macOS" */ = {
 			isa = XCConfigurationList;
@@ -2302,7 +2302,7 @@
 				5DC36DDF1FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		E4202FDD1B667AA100C997FB /* Build configuration list for PBXNativeTarget "Alamofire watchOS" */ = {
 			isa = XCConfigurationList;
@@ -2314,7 +2314,7 @@
 				5DC36DE31FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		F8111E2D19A95C8B0040E7D1 /* Build configuration list for PBXProject "Alamofire" */ = {
 			isa = XCConfigurationList;
@@ -2326,7 +2326,7 @@
 				5DC36DDC1FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		F8111E4619A95C8B0040E7D1 /* Build configuration list for PBXNativeTarget "Alamofire iOS" */ = {
 			isa = XCConfigurationList;
@@ -2338,7 +2338,7 @@
 				5DC36DDD1FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		F8111E4919A95C8B0040E7D1 /* Build configuration list for PBXNativeTarget "Alamofire iOS Tests" */ = {
 			isa = XCConfigurationList;
@@ -2350,7 +2350,7 @@
 				5DC36DDE1FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 		F829C6BB1A7A94F100A2CD59 /* Build configuration list for PBXNativeTarget "Alamofire macOS Tests" */ = {
 			isa = XCConfigurationList;
@@ -2362,7 +2362,7 @@
 				5DC36DE01FACD9F900C8D17E /* Vtkn */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Vtkntest;
+			defaultConfigurationName = Vtkn;
 		};
 /* End XCConfigurationList section */
 	};
